@@ -1,0 +1,81 @@
+
+/* Set background color and font family for body */
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    /* Set margin and padding for table */
+    table {
+    margin: 20px auto;
+    padding: 10px;
+    border-collapse: collapse;
+    width: 80%;
+    }
+    
+    /* Set table header style */
+    th {
+    background-color: #0077b6;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+    }
+    
+    /* Set table row style */
+    tr {
+    background-color: white;
+    border: 1px solid #ddd;
+    }
+    
+    /* Set table row hover effect */
+    tr:hover {
+    background-color: #f5f5f5;
+    }
+    
+    /* Set table data style */
+    td {
+    padding: 10px;
+    }
+    
+    /* Set button style */
+    input[type="submit"], button {
+    background-color: #0077b6;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 5px 10px;
+    margin-right: 5px;
+    border-radius: 5px;
+    }
+    
+    /* Set button hover effect */
+    input[type="submit"]:hover, button:hover {
+    background-color: #005f8b;
+    }
+    
+    /* Set form style for add and edit options */
+    form {
+    margin: 20px auto;
+    padding: 10px;
+    width: 50%;
+    }
+    
+    /* Set input style */
+    input[type="text"] {
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    }
+    
+    /* Set hidden input style */
+    input[type="hidden"] {
+    display: none;
+    }
+    
+    /* Set error message style */
+    .error-message {
+    color: red;
+    margin-bottom: 10px;
+    }
