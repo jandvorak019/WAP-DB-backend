@@ -1,6 +1,7 @@
 # WAP-DB-backend
 #Instructions
 Vytvořte webovou aplikaci spravující záznamy v databázi.
+
 1. Téma databáze si zvolte sami.
 2. Stačí jeden entitní typ o minimálně 4 atributech a minimálně 3 datových typech.
 3. Aplikace bude umět vkládat(formulář), upravovat(formulář), mazat(optání) a zobrazovat(tabulka) jednotlivé záznamy.
@@ -11,4 +12,5 @@ Vytvořte webovou aplikaci spravující záznamy v databázi.
 8. Nemusí být responzivní ani přístupná, ale opět jsou to body navíc.
 9. Nemusíte řešit přihlašováním práva atp.
 10. Napište základní README.md se seznámením s aplikací a několika ukázkami (zmenšené screenshoty). 
+11. 
 Odevzdávejte jako odkaz na repo projektu na githubu.
